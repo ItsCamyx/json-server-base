@@ -8,6 +8,47 @@
       "id": 1
     }
   ],
-  "contentMobile": [],
-  "contentDesktop": []
+  "contentMobile": [{
+		"title": "Sobre formulários de cadastro/login",
+		"description": "Vamos imaginar uma situação: Você acabou de comprar seu celular novinho, vai ligar ele, e aparecem um monte de configurações e você não sabe o que fazer, aqui vamos te explicar como configurar seu celular sozinho! A primeira coisa que vai pedir, é para você escolher uma linguagem. Você deve selecionar “Português (Brasil)”, para que o seu celular fique com uma linguagem que você entende. Depois você vai apertar no “Vamos lá”. O segundo passo: irá abrir uma imagem perguntando se você quer configurar como novo ou não. Nessa opção você irá apertar em “Configurar como novo”. Porque não iremos pegar as informações antigas? Bom, essa opção só seria viável caso você tivesse algo salvo em sua conta. Como estamos configurando um celular novo, não há nada salvo. Após isso, ele vai te pedir para Conectar-se! Ali você vai entrar em sua rede wi-fi na sua casa, ou ligar seus dados móveis, pra que seu novo celular fique conectado a internet, para isso basta escolher qual é a rede de wi-fi da sua casa, e colocar a senha! Caso não saiba desta parte, pode pedir ajuda para alguém. Depois ele irá perguntar sobre a sua privacidade! Isso significa que o sistema do seu celular irá coletar algumas informações, assim fica mais fácil saber o que tem que ser atualizado futuramente. Aperte em “Aceitar e Continuar”. Após isso ele vai pedir seu login, lembra que falamos sobre login e cadastro? Então, nessa seção ele irá pedir suas informações. Se você já tem um endereço eletrônico e já sabe qual é, você pode preencher com seu endereço eletrônico e senha, caso não tenha, pode criar um também, é só apertar em “Mais opções”, depois em “Criar e-mail” e aí preencher suas informações. Após você ter feito tudo isso, seu celular irá abrir normalmente, e você já poderá começar a baixar seus aplicativos e começar a navegar!",
+		"link": "https://blog.opt-intelligence.com/wp-content/uploads/2017/02/facebok-ad-to-lead-ad.png",
+		"extra": "",
+		"id": 1
+	},
+
+	{
+		"title": "O que são ícones?",
+		"description": "Ícones são imagens, que nos dizem exatamente sobre o que é o aplicativo de uma forma mais direta e muitas vezes elas tem o logotipo do aplicativo. Como por exemplo: Quando você entra no seu celular, aparecem vários quadradinhos com imagens. Alguns deles tem uma letra, outros tem formato de câmera, outros contém uma engrenagem... Esses são os ícones! Eles representam para que aquele quadradinho serve, e o que ele vai abrir. Outro exemplo mais real e mais fácil de entender, são as placas de trânsito! Sim, elas também tem ícones. Suas imagens representam de uma forma simples a passagem de pedestres, um quebra-mola...e por ai vai! O ícone do Facebook, é um F branco, em um fundo azul, ele significa a inicial do facebook, e quando você aperta nele, ele abre o aplicativo do Facebook. O Whatsapp tem um balãozinho branco, no fundo verde, aquele é o ícone do whatsapp! Como identificar um ícone? É simples, quase tudo que tem no seu celular, que abre alguma outra coisa, é um ícone!",
+		"link": "https://escolaeducacao.com.br/wp-content/uploads/2021/12/Descubra-quais-aplicativos-sao-perigosos-para-o-celular-750x430.jpeg",
+		"extra": "",
+		"id": 2
+	},
+	{
+		"title": "Sobre formulários de cadastro/login",
+		"description": "Formulários de cadastro, ou login(entrar), servem para criar uma ficha sua, com suas informações, para que quando você entre em algum aplicativo que necessite de cadastro ou login(entrar), ele crie um perfil só seu, é uma partezinha naquele aplicativo em que só você pode alterar, ter acesso as informações, as vezes colocar sua própria foto, e as informações pessoais que você quiser. Importante: Só você tem acesso ao seu cadastro/entrar, por isso, eles pedem SENHA, essa senha é utilzada pra evitar que alguém pegue suas informações pessoais! Como uma senha de banco. É muito importante que você não compartilhe sua senha com ninguém. Nesses tipos de formulários, a maioria pede um endereço eletrônico, seu nome, uma senha, as vezes imagens, idade, e diversos tipos de informações.",
+		"link": "https://blog.opt-intelligence.com/wp-content/uploads/2017/02/facebok-ad-to-lead-ad.png",
+		"extra": "",
+		"id": 3
+	}],
+  "contentDesktop": [{
+		"title": "Computador: primeiros passos",
+		"description": "Primeiramente você necessita ligar o computador, certo? No seu computador ou notebook, haverá um botão com um círculo e um traço no meio do círculo. Esse botão quando pressionado, irá ligar o seu computador! A partir daí, se o seu computador ou notebook tiver senha, você vai ter que escolher o usuário com o seu nome se tiver mais de um usuário, e inserir a senha do seu computador! Assim, irá abrir a sua Área de Trabalho, que é onde irá conter todos os seus aplicativos. Na sua área de trabalho, na parte inferior há uma 'Barra de Tarefas', ali você pode observar que temos informações sobre o clima, uma seta para cima, que iremos deixar de lado por agora, logo após, temos um ícone de câmera, outro de microfone, outro indicando a bateria se caso estiver no notebook, e um indicando o Wi-fi, logo ao lado do ícone de som! Você irá clicar no ícone de wi-fi e conectar-se a sua internet, caso não saiba muito bem como fazer isso, você pode pedir a ajuda de alguém. Mas o mais importante que iremos ver agora, é o Google Chrome, ele é simbolizado por um ícone redondo, de cor vermelha, verde, amarela e azul, que irá abrir o navegador! No navegador você vai poder navegar na internet, entre diversos sites, como facebook.com, ou instagram.com, ou somente mesmo fazer uma pesquisa na internet sobre alguma curiosidade ou site que você tem interesse de visitar! Por enquanto é só! Fique atento para os próximos tutoriais onde vamos aprofundar mais. É importante, que você tente mexer sozinho, mesmo que não consiga por enquanto, pois a prática leva a perfeição e só assim você irá aprender, é tentando que se erra ou acerta, não tenha medo de mexer no seu computador, dificilmente ele irá dar algum problema com você tentando descobrir como se mexe!",
+		"link": "https://veja.abril.com.br/wp-content/uploads/2016/05/alx_pessoas-usando-computador-20141123-03_original3.jpeg",
+		"extra": "",
+		"id": 1
+	},
+	{
+		"title": "Mouse: como usar/ o que é?",
+		"description": "O mouse é um dispositivo que serve para você mexer no seu computador, como se fosse uma extensão da sua mão para a tela. Com ele você consegue “Clicar” nos ícones. Ele geralmente tem dois botões, o esquerdo para abrir aplicativos ou sites do seu computador, e o direito para abrir configurações. O mouse geralmente conectado no seu computador ou notebook por meio de um cabo. Notebooks geralmente tem um “MousePad” (um quadrado be tamanho médio a grande próximo ao teclado), que é como se fosse um mouse, mas ao invés de você mover ele para conseguir clicar nas coisas, você usa com seu dedo parecendo uma tela de um celular mais atual. Na tela há um “Cursor” branco que é o ponto que você mexe, se você arrastar seu mouse para esquerda, ou arrastar seu dedo no MousePad para a esquerda, o Cursor que está na tela irá se mover juntamente para esquerda, assim sendo em todas as direções. Mouses são muito úteis e essenciais para a navegação. É muito importante que você tenha um mouse bom, pois dependendo da qualidade do seu mouse, a longo uso, pode causar alguns danos no seu braço, como tendinite por mal posicionamento.",
+		"link": "http://i.mlcdn.com.br/portaldalu/fotosconteudo/441_01.jpg",
+		"extra": "",
+		"id": 2
+	},
+	{
+		"title": "Teclado: como usar/ o que é?",
+		"description": "O teclado é como o mouse também, ele é geralmente ligado no seu computador por um cabo. Nele você irá conseguir escrever as palavras, como quando quiser conversar com alguém, ou preencher os famosos formulários! O teclado vem com várias e várias teclas, a maioria delas tem a explicação direta do pra que aquela tecla serve, por exemplo, a tecla com o símbolo “A”, escreve a letra A, e assim por diante, mas também temos outros tipos de tecla. como por exemplo, a Tecla Enter, que é representada por uma flecha pra esquerda ou enter, e tem formato de L ao contrário, essa tecla serve pra enviar o que você esta escrevendo, ou muitas vezes fazer uma quebra de linha, vai depender de qual aplicativo você estará utilizando. Temos também outra tecla com uma flecha pra esquerda ou escrito backspace, porém essa é retangular, ela serve para apagar o texto que você escreveu, letra por letra. Temos também outra tecla muito importante, a tecla espaço, é o maior retângulo que você vai ter no seu teclado, ela serve para criar espaços entre as palavras, ou seja, se você quer escrever a frase “banana amarela”, você vai escrever primeiro a palavra banana, vendo cada letra do seu teclado, logo após, vai apertar a tecla espaço, e escrever a palavra amarela, assim você terá as duas palavras separadas. E caso queira apagar a frase, você irá apertar na tecla retangular com a flecha para a esquerda, e assim, vai apagar o texto! Ao lado iremos deixar uma lista das teclas para você ver o que cada uma faz!",
+		"link": "https://t.ctcdn.com.br/wGfVIciTA29MSVw1pLEaS-7g-Vs=/1400x788/smart/i525281.jpeg",
+		"extra": "https://support.microsoft.com/pt-br/windows/usando-o-teclado-18b2efc1-9e32-ba5a-0896-676f9f3b994f",
+		"id": 3
+	}]
 }
