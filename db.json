@@ -9,9 +9,9 @@
     }
   ],
   "contentMobile": [{
-		"title": "Sobre formulários de cadastro/login",
+		"title": "Celular: primeiros passos",
 		"description": "Vamos imaginar uma situação: Você acabou de comprar seu celular novinho, vai ligar ele, e aparecem um monte de configurações e você não sabe o que fazer, aqui vamos te explicar como configurar seu celular sozinho! A primeira coisa que vai pedir, é para você escolher uma linguagem. Você deve selecionar “Português (Brasil)”, para que o seu celular fique com uma linguagem que você entende. Depois você vai apertar no “Vamos lá”. O segundo passo: irá abrir uma imagem perguntando se você quer configurar como novo ou não. Nessa opção você irá apertar em “Configurar como novo”. Porque não iremos pegar as informações antigas? Bom, essa opção só seria viável caso você tivesse algo salvo em sua conta. Como estamos configurando um celular novo, não há nada salvo. Após isso, ele vai te pedir para Conectar-se! Ali você vai entrar em sua rede wi-fi na sua casa, ou ligar seus dados móveis, pra que seu novo celular fique conectado a internet, para isso basta escolher qual é a rede de wi-fi da sua casa, e colocar a senha! Caso não saiba desta parte, pode pedir ajuda para alguém. Depois ele irá perguntar sobre a sua privacidade! Isso significa que o sistema do seu celular irá coletar algumas informações, assim fica mais fácil saber o que tem que ser atualizado futuramente. Aperte em “Aceitar e Continuar”. Após isso ele vai pedir seu login, lembra que falamos sobre login e cadastro? Então, nessa seção ele irá pedir suas informações. Se você já tem um endereço eletrônico e já sabe qual é, você pode preencher com seu endereço eletrônico e senha, caso não tenha, pode criar um também, é só apertar em “Mais opções”, depois em “Criar e-mail” e aí preencher suas informações. Após você ter feito tudo isso, seu celular irá abrir normalmente, e você já poderá começar a baixar seus aplicativos e começar a navegar!",
-		"link": "https://www.youtube.com/watch?v=mZtHDL2Xu3M",
+		"link": "https://www.youtube.com/embed/mZtHDL2Xu3M",
 		"extra": "",
 		"id": 1
 	},
